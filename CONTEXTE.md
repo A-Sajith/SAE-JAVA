@@ -11,4 +11,4 @@ L’objectif était de créer une calculatrice capable d’effectuer des opérat
 
 # Technologies utilisées
 Langage : Java
-Modélisation : UML
+Modélisation : UML 
